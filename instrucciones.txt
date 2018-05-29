@@ -1,0 +1,7 @@
+recto 180 22
+derecha 17 2
+izquierda 154 154
+rotonda 2 409 97
+recto 429 74
+izquierda 351 111
+derecha 29 6

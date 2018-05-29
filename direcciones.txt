@@ -1,3 +1,0 @@
-derecha, 1234, 10,
-izquierda, 45, 3, ç
-frente, 679, 5,
